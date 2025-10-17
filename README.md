@@ -1,2 +1,1 @@
-# nhan_dang_CNN
-Nhận dạng tài xế ngủ gật bằng mô hình CNN
+# m-ngu-n-tx1-v-minh-qu-n
